@@ -1,5 +1,5 @@
 # Nonlinear-Finite-Element-Code-for-2D-Problems
-A code for solving nonlinear boundary value problems in solid mechanics with nonlinear material behaviour and large deformation, to start, modify and run 'Run_code.mlx'.
+A program for solving nonlinear boundary value problems in solid mechanics with nonlinear material behaviour and large deformation. To start, modify and run 'Run_code.mlx'.
 
 ## Instruction
 This program provides both static and dynamic (alpha method) solver for 2-D boundary value problem (Large deformation). 
